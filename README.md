@@ -1,5 +1,5 @@
 # majesticsquid8.github.io
+For SE Final
 
-Se final
-
-liam Bee
+Personal Repository
+Liam Bee
